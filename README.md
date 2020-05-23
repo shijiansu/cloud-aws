@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/language-bash,%20markdown-blue)
+![](https://img.shields.io/badge/language-shell,%20markdown-blue)
 ![](https://img.shields.io/badge/technology-aws%20containers,%20ecr,%20ecs,%20fargate,%20eks-blue)
 ![](https://img.shields.io/badge/development%20year-2020-orange)
 ![](https://img.shields.io/badge/contributor-shijian%20su-purple)
