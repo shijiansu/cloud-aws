@@ -9,6 +9,7 @@
 ![](https://img.shields.io/github/languages/code-size/shijiansu/aws-containers)
 ![](https://img.shields.io/github/repo-size/shijiansu/aws-containers)
 ![](https://img.shields.io/github/last-commit/shijiansu/aws-containers?color=red)
+![](https://github.com/shijiansu/aws-containers/workflows/ci%20build/badge.svg)
 
 --------------------------------------------------------------------------------
 
